@@ -4,6 +4,11 @@
 <img src="images/MLPerf.jpg" width="800">
 </p>
 
+### [Best Newcomer Award]
+<p align="center">
+<img src="images/newcomer.jpg" width="800">
+</p>
+
 ### [Hybrid Parallelism Project]
 <p align="center">
 <img src="images/Hybrid-Parallelism.jpg" width="800">
@@ -43,8 +48,4 @@
 <img src="images/ernie-bot.jpg" width="800">
 </p>
 
-### [Best Newcomer Award]
-<p align="center">
-<img src="images/newcomer.jpg" width="800">
-</p>
 
