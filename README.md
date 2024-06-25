@@ -33,14 +33,14 @@
 
 ### [Personal Reward]
 <p align="center">
-<img src="images/personal.JPG" width="800">
+<img src="images/personal.jpg" width="800">
 </p>
 
 
 
 ### [ERNIE Bot Project]
 <p align="center">
-<img src="images/ernie-bot.png" width="800">
+<img src="images/ernie-bot.jpg" width="800">
 </p>
 
 ### [Best Newcomer Award]
