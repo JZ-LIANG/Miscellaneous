@@ -42,3 +42,9 @@
 <p align="center">
 <img src="images/ernie-bot.png" width="800">
 </p>
+
+### [Best Newcomer Award]
+<p align="center">
+<img src="images/newcomer.jpg" width="800">
+</p>
+
